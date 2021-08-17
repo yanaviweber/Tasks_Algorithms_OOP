@@ -25,6 +25,6 @@ Here is the complex of topics for practice Swift language by tasks and video les
 
 Stages of installing and displaying this code here:
 
-1. `Upload and install Xcode in the official Apple website https://apps.apple.com/us/app/xcode/id497799835?mt=12`
-2. `Open the folder of the topic and double click of the file with extension .playground`
-3. `Inside Xcode you have to run the simulator in the top panel (select device and click to "Run")`
+1. Upload and install Xcode in the official Apple 1. Upload and install Xcode in the official Apple [Xcode link](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+2. Open the folder of the topic and double click of the file with extension .playground
+3. Inside Xcode you have to run the simulator in the top panel (select device and click to "Run")
